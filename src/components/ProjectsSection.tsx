@@ -16,7 +16,7 @@ const projects = [
     tech: ["React", "Tailwind", "Framer Motion"],
     image: "portfolioo.jpg",
     github: "https://github.com/Biswajit-637049/Biswajit-Protfolio.git",
-    demo: "https://banty-portfolio.netlify.app/",
+    demo: "https://biswajittt09-portfoli.netlify.app/",
   },
   {
     title: "BookSpace",
