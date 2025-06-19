@@ -15,8 +15,8 @@ const projects = [
     description: "My personal developer portfolio built with React and Tailwind CSS.",
     tech: ["React", "Tailwind", "Framer Motion"],
     image: "portfolioo.jpg",
-    github: "https://github.com/Biswajit-637049/Biswajit-Protfolio.git",
-    demo: "https://biswajittt09-portfoli.netlify.app/",
+    github: "https://github.com/Biswajit-637049/Biswajit-Portfolio.git",
+    demo: "",
   },
   {
     title: "BookSpace",
@@ -32,7 +32,7 @@ const projects = [
     tech: ["React", "Node.js", "MongoDB", "Tailwind css","Material Ui"],
     image: "video-tutorial.jpg",
     github: "https://github.com/Biswajit-637049/Video-Tutorial.git",
-    demo: "",
+    demo: "https://biswajit-videolibrary.netlify.app/",
   },
 ];
 
