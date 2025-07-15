@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useToast } from "@/hooks/use-toast";
-import resume from "../../public/Biswajit Resume. (1).pdf"
+import resume from "../../public/Biswajit_MERN_Resume.pdf";
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
